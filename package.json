@@ -1,0 +1,29 @@
+{
+  "name": "confit-merger",
+  "version": "1.0.0",
+  "description": "A utility module to merge environment-aware confit based configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subeeshcbabu/confit-merger.git"
+  },
+  "keywords": [
+    "confit",
+    "environment",
+    "node.js",
+    "node",
+    "merge"
+  ],
+  "author": "subeesh chothendavida <subeeshchothen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subeeshcbabu/confit-merger/issues"
+  },
+  "homepage": "https://github.com/subeeshcbabu/confit-merger#readme",
+  "dependencies": {
+    "confit": "^2.1.0"
+  }
+}
