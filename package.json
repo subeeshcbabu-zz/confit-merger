@@ -1,10 +1,10 @@
 {
   "name": "confit-merger",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.2",
   "description": "A utility module to merge environment-aware confit based configurations",
   "main": "index.js",
   "scripts": {
-    "test": "ava test"
+    "test": "ava test/*.js --tap"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
   "homepage": "https://github.com/subeeshcbabu/confit-merger#readme",
   "dependencies": {
     "confit": "^2.1.0"
+  },
+  "devDependencies": {
+    "ava": "^0.19.0"
   }
 }
