@@ -1,4 +1,5 @@
 {
     "a": "hello from default config",
-    "b": "hi from default config"
+    "b": "hi from default config",
+    "abc": "new:MY_ENV"
 }
