@@ -37,3 +37,6 @@ Please read these documents on [confit](https://github.com/krakenjs/confit):
     - `paths` - (*Array) - (required) - The list of absolute paths of the `basedir` of the config files (`basedir` is the directory in which confg files can be located).
 
     - `protocols` - (*Object) - (optional) - An object containing the details of [shortstop](https://github.com/krakenjs/shortstop) protocols to be added in addition to the default [shortstop-handlers](https://github.com/krakenjs/shortstop-handlers).
+
+
+## Example
