@@ -1,6 +1,6 @@
 {
   "name": "confit-merger",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0",
   "description": "A utility module to merge environment-aware confit based configurations",
   "main": "index.js",
   "scripts": {
